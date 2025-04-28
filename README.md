@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dusty</h1>
 <h3 align="center">Akshat (Singh) Mehrotra | Dusty | Emerging Computer Scientist | Exploring Cybersecurity, DevOps, AI & Digital Innovation | Always Learning, Always Creating</h3>
 
-<p align="left"> <a href="https://twitter.com/dusty0130" target="blank"><img src="https://img.shields.io/twitter/follow/dusty0130?logo=twitter&style=for-the-badge" alt="dusty0130" /></a> </p>
-
 - 🔭 I’m currently working on [HazeGrid](https://github.com/HazeGrid)
 
 - 🌱 I’m currently learning **Multiple languges and framework**
